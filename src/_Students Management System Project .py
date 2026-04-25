@@ -1,4 +1,4 @@
-# Student Record Managemenrt System
+                       # ----------------------------------------------------- Student Record Managemenet System-----------------------------------------------------------                                          
 student_grades = {}
 
 # Add a new student
