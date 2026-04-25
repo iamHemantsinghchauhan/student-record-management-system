@@ -1,8 +1,4 @@
-# Generated from: _Students Management System Project .ipynb
-# Converted at: 2026-04-25T04:38:14.092Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
+# Student Record Managemenrt System
 student_grades = {}
 
 # Add a new student
